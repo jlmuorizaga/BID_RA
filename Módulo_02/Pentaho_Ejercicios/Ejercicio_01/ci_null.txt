@@ -1,0 +1,2 @@
+CI;Nombre;Apellido;Edad
+;Juana    ;Leal     ;67

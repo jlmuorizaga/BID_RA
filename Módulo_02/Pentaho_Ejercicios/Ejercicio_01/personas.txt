@@ -1,0 +1,5 @@
+CI;Nombre;Apellido;Edad
+1232354-2;Francisco;Salgado;47
+44545414;María;Gomez;45
+;Juana;Leal;67
+3432434-8;Carlos;Domínguez;23
